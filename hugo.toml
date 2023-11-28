@@ -1,0 +1,4 @@
+baseURL = 'https://lydiaall.github.io/SiteHugo/'
+languageCode = 'en-us'
+title = 'ALLAOUA Lydia'
+theme = 'PaperMod'
