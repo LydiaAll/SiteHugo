@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+ .info{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgba(62, 18, 37, 0.822);
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+
+
+
+
+
+
+  .header {
+    background-color: rgba(47, 10, 22, 0.695);
+    color: #fff;
+  }
+  
+  .navbar ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+  }
+  
+  .navbar li {
+    margin-right: 20px;
+  }
+  
+  .navbar a {
+    text-decoration: none;
+    color: #fff;
+  }
+  
+  .navbar a:hover {
+    color: #f0f0f0;
+  }
